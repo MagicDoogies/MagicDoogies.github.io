@@ -1,0 +1,27 @@
+.examplebox {
+			box-sizing:border-box;
+			margin: 10px;
+			width:500px;
+			height: 300px;
+			padding: 30px;
+			/*background-color: blanchedalmond;*/
+			border-radius: 60px;
+
+			background-image:url('space_travel.jpg');
+			background-size: cover;
+			background-repeat:no-repeat ;
+
+			
+		}
+.examplebox h1{
+	color: firebrick;
+	text-aling: right;
+	/*font-color:firebrick;*/
+	font-weight: bold;
+
+}
+
+@font-face {
+		  font-family:'fortefonts';
+		  src: url(site_fonts/FORTE.ttf);
+		}
